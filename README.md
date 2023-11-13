@@ -26,6 +26,10 @@ nRF24L01p+ PA+ LNA 2.4GHz
 0,96" 128x64 OLED, I2C, SSD1306
 ## Technické specifikace demonstračního obvodu
 ### Popis
-Jednoduchý obvod který ovládá led diodu pomocí dalkového ovládání
-###Komunikační modul
-Sada pro bezdrátovou komunikaci se čtyřmi kanály - 433MHz EV1527
+Jednoduchý obvod který ovládá led diodu pomocí dalkového ovládání.
+### Seznam součástek
+#### Komunikace
+Sada bezdrátového ovládání 433MHz EV1527 4-kanály
+#### Ostatní
+Zdroj napájení
+LED dioda x1
