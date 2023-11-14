@@ -13,7 +13,7 @@ Na této frekvenci nalezneme široké spektrum zařízeních na dalkové ovlád�
 #### 2.4 gHz
 Na této frekvenci běží mnoho digitalních služeb jako je WiFi, GPS, a bluetooth.
 ### Je rušička legální?
-Stavba a provoz rušiček sám legální je, ale problémy mohou nastat v případě že rušíme něco cizího. Tato rušička nebyla sestavena za účelém páchání trestné činnosti, ale pouze na vzdělávání v oblastech kybernetické bezpečnosti.
+Stavba a provoz rušiček sám o sobě legální je, ale problémy mohou nastat v případě že rušíme něco cizího. Tato rušička nebyla sestavena za účelém páchání trestné činnosti, ale pouze na vzdělávání v oblastech kybernetické bezpečnosti.
 ## Technické specifikace JAMu
 ### Platforma
 Arduino NANO
